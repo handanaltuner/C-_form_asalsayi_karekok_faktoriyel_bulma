@@ -1,1 +1,2 @@
-# C-_form_asalsayi_karekok_faktoriyel_bulma
+# Bilisim Academy ders sonu ödevi.
+C# Form ile asalsayı, karekök ve faktoriyel bulma
